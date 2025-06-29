@@ -1,0 +1,8 @@
+We don't really need to know if its a ball or not.
+We can probably look at something else.
+For this specific video, we can look if a particular group of pixels is covered.
+Or we can look if there is a dense blob of pixels moving past a particular point.
+
+We could also detect when the ball has a particularly low velocity, it will happen 2 times per rep.
+
+We can skip a bunch of frames so the movement is more obvious
